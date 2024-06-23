@@ -1,0 +1,23 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  box-sizing: border-box;
+  width: 100vw;
+}
+
+.div1 {
+    background-image: url("../src/assets/images/ESPORTS2.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.b11 {
+  background-image:url("../src/assets/images/11.jpg");
+  background-size:contain
+}
+
+.b11:hover {
+background-color:red;
+}
+
