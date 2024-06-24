@@ -162,7 +162,7 @@ function Home() {
             <h1 className="z-50 py-4 px-10 flex items-center justify-start text-3xl font-bold w-full text-white text-left">OUR NEW BRANDED HEADPHONES ARE NOW FOR <br /> SALE</h1>
             <div className="absolute z-0 w-[45vw] h-[180vh] bg-gray-800 left-0 top-0"></div>
         </div>
-        <div className="center h-[60vh] flex items-center justify-between mt-20 w-full px-10 bg-red-300 text-white">
+        <div className="center h-[60vh] flex items-center justify-between mt-20 w-full px-10 text-white">
             <h1 className="text-left font-bold text-5xl">GET OUR MERCH <br />& SUPPORT OUR TEAM</h1>
             <button className="text-red-500 font-bold bg-white px-9 py-6 hover:bg-red-500 hover:text-white">GET MERCH</button>
         </div>
