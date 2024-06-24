@@ -17,7 +17,8 @@ import { FiTwitch } from "react-icons/fi";
 import lored from "../../assets/images/lored.svg";
 import loblue from "../../assets/images/loblue.svg";
 import losky from "../../assets/images/losky.svg";
-import loblack from "../../assets/images/loblack.svg"
+import loblack from "../../assets/images/loblack.svg";
+import esports6 from "../../assets/images/ESPORTS6.jpeg"
 
 
 
@@ -142,7 +143,7 @@ function Home() {
                 </div>
                 <div className=" w-[40%] z-50 h-[100%] flex flex-wrap  gap-3 items-start  justify-between">
                     <div className="w-[48%] h-[50%] flex gap-4 flex-col items-center justify-start">
-                        <div className="side1 w-full h-[60%]"></div>
+                        <div className="side1 w-full h-[60%]"> <img src={esports6} className="w-[100%] h-[100%]"/> </div>
                         <h1 className="flex  items-center justify-start font-bold text-left text-xl">THE BEST KEYBOARD FOR HIGH-END GAMING</h1>
                     </div>
                     <div className="w-[48%] h-[50%] flex gap-4 flex-col items-center justify-start">
