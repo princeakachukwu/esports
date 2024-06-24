@@ -12,7 +12,7 @@ import { FaTiktok } from "react-icons/fa6";
 
 function Footer() {
   return (
-    <div className="h-[100vh] flex gap-4 items-center justify-center px-14 bg-slate-900 w-full pt-40">
+    <div className="h-[100vh] flex gap-4 items-center justify-center px-14  w-full pt-40 bg-gray-950">
         <div className="w-[100vw] gap-10 flex ">
             <figure className="w-[30%] h-[100%] flex  flex-col "> 
                 <img src={logo} className="w-[250px]"/>  

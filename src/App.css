@@ -21,3 +21,51 @@
 background-color:red;
 }
 
+.play1{
+  border-radius:100px;
+  width:100px;
+  height: 100px;
+}
+
+.playButton {
+  right: 350px;
+}
+
+.s1 {
+  background-image:url("../../esports/src/assets/images/s1.jpeg");
+  
+}
+
+.s2 {
+  background-image:url("../../esports/src/assets/images/s2.jpg");
+  
+}
+
+.s3 {
+  background-image:url("../../esports/src/assets/images/s3.jpg");
+  
+}
+
+.backposition {
+  background-position:center;
+  background-size:cover
+}
+
+.earpiece {
+  background-image:url("../../esports/src/assets/images/earpiece.jpeg");
+
+}
+
+.side1 {
+  background-image:url("../../esports/src/assets/images/ESPORTS6.jpeg");
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat
+}
+
+.center {
+  background-image:url("../../esports/src/assets/images/center.jpeg");
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat
+}
